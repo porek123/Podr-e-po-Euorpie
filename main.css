@@ -1,0 +1,53 @@
+body {
+    background-color: #dbc688;
+    font-family: 'Bree Serif';
+    justify-content: center;
+	font-size: 50;
+}
+
+.punkty {
+	color:#829bf8;
+    text-align: center;
+}
+
+.headline {
+	color:#829bf8;
+    text-align: center;
+}
+
+.opis {
+	color:#829bf8;
+    font-size: 50px;
+    text-align: center;
+}
+
+button {
+    font-size: 25px;
+    background-color: #d6bb6d;
+    text-align: center;
+    border: 10px solid #829bf8;
+    cursor: cell;
+}
+
+.btn {
+    margin-left: 48%;
+    margin-top: 5%;
+}
+
+.warszawa {
+    margin-left: -13.6%;
+    margin-top: 5%;
+}
+.wieden {
+    margin-left: -0.5%;
+    margin-top: 5%;
+}
+.paryz {
+	margin-left:-13%;
+	margin-top: 5%;
+}
+
+.europa {
+	margin-top: -9%;
+	margin-left: -10%;
+}
